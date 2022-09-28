@@ -1,2 +1,2 @@
 # EttaPhung.github.io
-Portfolio
+Portfolio for Generation USA's jwd program
