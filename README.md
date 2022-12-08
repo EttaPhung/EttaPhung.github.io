@@ -9,7 +9,7 @@
 
 
 ## Description
-This is my portfolio.
+This is my portfolio. View it [here](https://ettaphung.github.io/).
 
 ## Technologies
 Made using Visual Studio Code, HTML, CSS, Bootstrap, and Google Fonts.
