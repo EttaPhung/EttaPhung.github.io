@@ -1,3 +1,7 @@
-#navigator {
+* {
+    font-family: 'Cutive', 'Noto Serif HK', 'Cutive Mono', serif;
+}
 
+body {
+    background-color: rgb(81, 74, 145);
 }
